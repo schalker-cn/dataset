@@ -1,0 +1,2083 @@
+{
+    "products": [
+        {
+            "id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+            "title": "16\" Ultra-Slim AI Laptop | 3K OLED | 1.1cm Thin | 6-Speaker Audio",
+            "subtitle": null,
+            "description": "This ultra-thin 16-inch laptop is a sophisticated, high-performance machine for the new era of artificial intelligence. It has been completely redesigned from the inside out. The cabinet features an exquisite new ceramic-aluminum composite material in a range of nature-inspired colors. This material provides durability while completing the ultra-slim design and resisting the test of time. This innovative computer utilizes the latest AI-enhanced processor with quiet ambient cooling. It's designed to enrich your lifestyle on the go with an astonishingly thin 1.1cm chassis that houses an advanced 16-inch 3K OLED display and immersive six-speaker audio.",
+            "handle": "16-ultra-slim-ai-laptop-3k-oled-11cm-thin-6-speaker-audio",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/laptop-front.png",
+            "collection_id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:20.572Z",
+            "updated_at": "2025-12-05T04:21:20.572Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": {
+                "id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+                "title": "Featured",
+                "handle": "featured",
+                "metadata": null,
+                "created_at": "2025-12-05T04:21:20.537Z",
+                "updated_at": "2025-12-05T04:21:20.537Z",
+                "deleted_at": null
+            },
+            "options": [
+                {
+                    "id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                    "title": "Storage",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.573Z",
+                    "updated_at": "2025-12-05T04:21:20.573Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWE1VK561641XSFH7K0P4",
+                            "value": "256 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE1VV7MB23HDSZTRA5ZP",
+                            "value": "512 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        }
+                    ]
+                },
+                {
+                    "id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.573Z",
+                    "updated_at": "2025-12-05T04:21:20.573Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWE1V6K2S1P85RE71765Z",
+                            "value": "Blue",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE1VRZMDEW3QJS8HAZG9",
+                            "value": "Red",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWE1WEZTTC5AAMCR087ZX",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/laptop-front.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.573Z",
+                    "updated_at": "2025-12-05T04:21:20.573Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE1W8D21NT2RAP215VDC",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/laptop-side.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.573Z",
+                    "updated_at": "2025-12-05T04:21:20.573Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE1WDWYFW3ARR60YN3W5",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/laptop-top.png",
+                    "metadata": null,
+                    "rank": 2,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.573Z",
+                    "updated_at": "2025-12-05T04:21:20.573Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWE34KZ69J7E2EMXZXDA8",
+                    "title": "256 GB / Blue",
+                    "sku": "256-BLUE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.613Z",
+                    "updated_at": "2025-12-05T04:21:20.613Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE1VK561641XSFH7K0P4",
+                            "value": "256 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                            "option": {
+                                "id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                                "title": "Storage",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                                "created_at": "2025-12-05T04:21:20.573Z",
+                                "updated_at": "2025-12-05T04:21:20.573Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE1V6K2S1P85RE71765Z",
+                            "value": "Blue",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                            "option": {
+                                "id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                                "created_at": "2025-12-05T04:21:20.573Z",
+                                "updated_at": "2025-12-05T04:21:20.573Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWE3Y5TEBYG1XPJ4ZQWZZ",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 1299,
+                        "raw_calculated_amount": {
+                            "value": "1299",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 1299,
+                        "raw_original_amount": {
+                            "value": "1299",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWE3YNDAY3ZF062X9T3VA",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWE3YNDAY3ZF062X9T3VA",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWE35HFP26ZX5GR9B3H29",
+                    "title": "512 GB / Red",
+                    "sku": "512-RED",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                    "created_at": "2025-12-05T04:21:20.613Z",
+                    "updated_at": "2025-12-05T04:21:20.613Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE1VV7MB23HDSZTRA5ZP",
+                            "value": "512 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                            "option": {
+                                "id": "opt_01KBPBWE1VH8G35T1111GFMRZN",
+                                "title": "Storage",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                                "created_at": "2025-12-05T04:21:20.573Z",
+                                "updated_at": "2025-12-05T04:21:20.573Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE1VRZMDEW3QJS8HAZG9",
+                            "value": "Red",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                            "option": {
+                                "id": "opt_01KBPBWE1V8NA6AV6VQ5Q6DHFY",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE1R1ZFFP18A2YXBV6SF",
+                                "created_at": "2025-12-05T04:21:20.573Z",
+                                "updated_at": "2025-12-05T04:21:20.573Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.573Z",
+                            "updated_at": "2025-12-05T04:21:20.573Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWE3ZAWGW9P1P322GK7N7",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 1259,
+                        "raw_calculated_amount": {
+                            "value": "1259",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 1259,
+                        "raw_original_amount": {
+                            "value": "1259",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWE3ZGJE923XZ7RYKGYFV",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWE3ZGJE923XZ7RYKGYFV",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+            "title": "1080p HD Pro Webcam | Superior Video | Privacy enabled",
+            "subtitle": null,
+            "description": "High-quality 1080p HD webcam that elevates your work environment with superior video and audio that outperforms standard laptop cameras. Achieve top-tier video collaboration at a cost-effective price point, ideal for widespread deployment across your organization.",
+            "handle": "1080p-hd-pro-webcam-superior-video-privacy-enabled",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/camera-front.png",
+            "collection_id": null,
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:20.672Z",
+            "updated_at": "2025-12-05T04:21:20.672Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": null,
+            "options": [
+                {
+                    "id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                    "created_at": "2025-12-05T04:21:20.672Z",
+                    "updated_at": "2025-12-05T04:21:20.672Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWE4Z7NW9KN2MP8PNCGN5",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                            "created_at": "2025-12-05T04:21:20.672Z",
+                            "updated_at": "2025-12-05T04:21:20.672Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE4ZVC5XH3HV1T3F0BS7",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                            "created_at": "2025-12-05T04:21:20.672Z",
+                            "updated_at": "2025-12-05T04:21:20.672Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWE50TM8W7EE1R449R8HT",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/camera-front.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                    "created_at": "2025-12-05T04:21:20.672Z",
+                    "updated_at": "2025-12-05T04:21:20.672Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE50EXTV2H40E5JQ153A",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/camera-side.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                    "created_at": "2025-12-05T04:21:20.672Z",
+                    "updated_at": "2025-12-05T04:21:20.672Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWE5QMSWJZYF8GN3RTN74",
+                    "title": "Webcam White",
+                    "sku": "WEBCAM-WHITE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                    "created_at": "2025-12-05T04:21:20.696Z",
+                    "updated_at": "2025-12-05T04:21:20.696Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE4ZVC5XH3HV1T3F0BS7",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                            "option": {
+                                "id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                                "created_at": "2025-12-05T04:21:20.672Z",
+                                "updated_at": "2025-12-05T04:21:20.672Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.672Z",
+                            "updated_at": "2025-12-05T04:21:20.672Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWE6E2KB347AZE5WJYYTN",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 65,
+                        "raw_calculated_amount": {
+                            "value": "65",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 65,
+                        "raw_original_amount": {
+                            "value": "65",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWE6D25ZG3XVQSDRVQ6KP",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWE6D25ZG3XVQSDRVQ6KP",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWE5QVT02HGDDH1AKBA84",
+                    "title": "Webcam Black",
+                    "sku": "WEBCAM-BLACK",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                    "created_at": "2025-12-05T04:21:20.696Z",
+                    "updated_at": "2025-12-05T04:21:20.696Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE4Z7NW9KN2MP8PNCGN5",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                            "option": {
+                                "id": "opt_01KBPBWE50FJERPCYSG5SAPPBD",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE4ZS1WAN4F6J15GRGVF",
+                                "created_at": "2025-12-05T04:21:20.672Z",
+                                "updated_at": "2025-12-05T04:21:20.672Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.672Z",
+                            "updated_at": "2025-12-05T04:21:20.672Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWE6DY8ZFVT0RR4PWQBWK",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 59,
+                        "raw_calculated_amount": {
+                            "value": "59",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 59,
+                        "raw_original_amount": {
+                            "value": "59",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWE6D9JXTNK9N6YQ61GJ1",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWE6D9JXTNK9N6YQ61GJ1",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+            "title": "6.5\" Ultra HD Smartphone | 3x Impact-Resistant Screen",
+            "subtitle": null,
+            "description": "This premium smartphone is crafted from durable and lightweight aerospace-grade aluminum, featuring an expansive 6.5\" Ultra-High Definition AMOLED display. It boasts exceptional durability with a cutting-edge nanocrystal glass front, offering three times the impact resistance of standard smartphone screens. The device combines sleek design with robust protection, setting a new standard for smartphone resilience and visual excellence. Copy",
+            "handle": "65-ultra-hd-smartphone-3x-impact-resistant-screen",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-front.png",
+            "collection_id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:20.746Z",
+            "updated_at": "2025-12-05T04:21:20.746Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": {
+                "id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+                "title": "Featured",
+                "handle": "featured",
+                "metadata": null,
+                "created_at": "2025-12-05T04:21:20.537Z",
+                "updated_at": "2025-12-05T04:21:20.537Z",
+                "deleted_at": null
+            },
+            "options": [
+                {
+                    "id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                    "title": "Memory",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.746Z",
+                    "updated_at": "2025-12-05T04:21:20.746Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWE79XZJY37BCX646TD56",
+                            "value": "256 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE7961B32WS9PGEHWP7E",
+                            "value": "512 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        }
+                    ]
+                },
+                {
+                    "id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.746Z",
+                    "updated_at": "2025-12-05T04:21:20.746Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWE79T6SV2R8JF19XEGZT",
+                            "value": "Purple",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE796NRFBY1ZR3BGFJ7H",
+                            "value": "Red",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWE79C00733KRGSZMTQTC",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-front.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.746Z",
+                    "updated_at": "2025-12-05T04:21:20.746Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE79KHPDX4QV7HC2Y3MQ",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-side.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.746Z",
+                    "updated_at": "2025-12-05T04:21:20.746Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE792Y5CTCJMVHWT0FZY",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-bottom.png",
+                    "metadata": null,
+                    "rank": 2,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.746Z",
+                    "updated_at": "2025-12-05T04:21:20.746Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWE83BY711VV4V83XPYGF",
+                    "title": "256 GB Purple",
+                    "sku": "PHONE-256-PURPLE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.771Z",
+                    "updated_at": "2025-12-05T04:21:20.771Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE79XZJY37BCX646TD56",
+                            "value": "256 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                            "option": {
+                                "id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                                "title": "Memory",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                                "created_at": "2025-12-05T04:21:20.746Z",
+                                "updated_at": "2025-12-05T04:21:20.746Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE79T6SV2R8JF19XEGZT",
+                            "value": "Purple",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                            "option": {
+                                "id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                                "created_at": "2025-12-05T04:21:20.746Z",
+                                "updated_at": "2025-12-05T04:21:20.746Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWE8R9JWDYD9GY81867R8",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 999,
+                        "raw_calculated_amount": {
+                            "value": "999",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 999,
+                        "raw_original_amount": {
+                            "value": "999",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWE8R6CCMC176WNB8YQZT",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWE8R6CCMC176WNB8YQZT",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWE83YKMAXEK08PBFK873",
+                    "title": "256 GB Red",
+                    "sku": "PHONE-256-RED",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "created_at": "2025-12-05T04:21:20.771Z",
+                    "updated_at": "2025-12-05T04:21:20.771Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE79XZJY37BCX646TD56",
+                            "value": "256 GB",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                            "option": {
+                                "id": "opt_01KBPBWE79YZXCZ3FJXH23A23Y",
+                                "title": "Memory",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                                "created_at": "2025-12-05T04:21:20.746Z",
+                                "updated_at": "2025-12-05T04:21:20.746Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE796NRFBY1ZR3BGFJ7H",
+                            "value": "Red",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                            "option": {
+                                "id": "opt_01KBPBWE79K2NVNQW3VHR3P957",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                                "created_at": "2025-12-05T04:21:20.746Z",
+                                "updated_at": "2025-12-05T04:21:20.746Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.746Z",
+                            "updated_at": "2025-12-05T04:21:20.746Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWE8SR6M73GPE63KYK651",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 959,
+                        "raw_calculated_amount": {
+                            "value": "959",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 959,
+                        "raw_original_amount": {
+                            "value": "959",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWE8SV3FJSJRMBSHFNB9M",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWE8SV3FJSJRMBSHFNB9M",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+            "title": "34\" QD-OLED Curved Gaming Monitor | Ultra-Wide | Infinite Contrast | 175Hz",
+            "subtitle": null,
+            "description": "Experience the pinnacle of display technology with this 34-inch curved monitor. By merging OLED panels and Quantum Dot technology, this QD-OLED screen delivers exceptional contrast, deep blacks, unlimited viewing angles, and vivid colors. The curved design provides an immersive experience, allowing you to enjoy the best of both worlds in one cutting-edge display. This innovative monitor represents the ultimate fusion of visual performance and immersive design.",
+            "handle": "34-qd-oled-curved-gaming-monitor-ultra-wide-infinite-contrast-175hz",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-front.png",
+            "collection_id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:20.817Z",
+            "updated_at": "2025-12-05T04:21:20.817Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": {
+                "id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+                "title": "Featured",
+                "handle": "featured",
+                "metadata": null,
+                "created_at": "2025-12-05T04:21:20.537Z",
+                "updated_at": "2025-12-05T04:21:20.537Z",
+                "deleted_at": null
+            },
+            "options": [
+                {
+                    "id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.817Z",
+                    "updated_at": "2025-12-05T04:21:20.817Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWE9H19VMGKAVG4MBRK4P",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                            "created_at": "2025-12-05T04:21:20.817Z",
+                            "updated_at": "2025-12-05T04:21:20.817Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWE9HQE67MXTMT2HBGQH7",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                            "created_at": "2025-12-05T04:21:20.817Z",
+                            "updated_at": "2025-12-05T04:21:20.817Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWE9HZB7RP8QGN8TNSK9D",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-front.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.817Z",
+                    "updated_at": "2025-12-05T04:21:20.817Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE9HW98V1QZE4SZS1GWZ",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-side.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.817Z",
+                    "updated_at": "2025-12-05T04:21:20.817Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE9H7D35D8FP7D35V1CA",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-top.png",
+                    "metadata": null,
+                    "rank": 2,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.817Z",
+                    "updated_at": "2025-12-05T04:21:20.817Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWE9HKPXG9QMS0ABV5X08",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-back.png",
+                    "metadata": null,
+                    "rank": 3,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.817Z",
+                    "updated_at": "2025-12-05T04:21:20.817Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWEA9HMCC6RW2GJ6WZDH5",
+                    "title": "ACME Monitor 4k White",
+                    "sku": "ACME-MONITOR-BLACK",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.842Z",
+                    "updated_at": "2025-12-05T04:21:20.842Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE9HQE67MXTMT2HBGQH7",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                            "option": {
+                                "id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                                "created_at": "2025-12-05T04:21:20.817Z",
+                                "updated_at": "2025-12-05T04:21:20.817Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.817Z",
+                            "updated_at": "2025-12-05T04:21:20.817Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEATKHF6CHYSZMW1JWK9",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 599,
+                        "raw_calculated_amount": {
+                            "value": "599",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 599,
+                        "raw_original_amount": {
+                            "value": "599",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEAT1EWHCE77W9SYPMJ3",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEAT1EWHCE77W9SYPMJ3",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWEA9KGMRZDJY6MZJZFAS",
+                    "title": "ACME Monitor 4k White",
+                    "sku": "ACME-MONITOR-WHITE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                    "created_at": "2025-12-05T04:21:20.842Z",
+                    "updated_at": "2025-12-05T04:21:20.842Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWE9H19VMGKAVG4MBRK4P",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                            "option": {
+                                "id": "opt_01KBPBWE9HPA7SCC4JR668AJNG",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWE9GAR8S7MS5AEA4NQ6G",
+                                "created_at": "2025-12-05T04:21:20.817Z",
+                                "updated_at": "2025-12-05T04:21:20.817Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.817Z",
+                            "updated_at": "2025-12-05T04:21:20.817Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEAT6NAJQ329PSB13M1B",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 599,
+                        "raw_calculated_amount": {
+                            "value": "599",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 599,
+                        "raw_original_amount": {
+                            "value": "599",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEATE3H5GAWRY727933C",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEATE3H5GAWRY727933C",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+            "title": "Hi-Fi Gaming Headset | Pro-Grade DAC | Hi-Res Certified",
+            "subtitle": null,
+            "description": "Experience studio-quality audio with this advanced acoustic system, which pairs premium hardware with high-fidelity sound and innovative audio software for an immersive listening experience. The integrated digital-to-analog converter (DAC) enhances the audio setup with high-resolution certification and a built-in amplifier, delivering exceptional sound clarity and depth. This comprehensive audio solution brings professional-grade sound to your personal environment, whether for gaming, music production, or general entertainment.",
+            "handle": "hi-fi-gaming-headset-pro-grade-dac-hi-res-certified",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/headphone-front.png",
+            "collection_id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:20.883Z",
+            "updated_at": "2025-12-05T04:21:20.883Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": {
+                "id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+                "title": "Featured",
+                "handle": "featured",
+                "metadata": null,
+                "created_at": "2025-12-05T04:21:20.537Z",
+                "updated_at": "2025-12-05T04:21:20.537Z",
+                "deleted_at": null
+            },
+            "options": [
+                {
+                    "id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                    "created_at": "2025-12-05T04:21:20.883Z",
+                    "updated_at": "2025-12-05T04:21:20.883Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWEBKWMF1TDCVESZPZWCK",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                            "created_at": "2025-12-05T04:21:20.883Z",
+                            "updated_at": "2025-12-05T04:21:20.883Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWEBK5F27K6HXEDMZVDQ5",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                            "created_at": "2025-12-05T04:21:20.883Z",
+                            "updated_at": "2025-12-05T04:21:20.883Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWEBKRA3YH2GMR7GEYRXJ",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/headphone-front.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                    "created_at": "2025-12-05T04:21:20.883Z",
+                    "updated_at": "2025-12-05T04:21:20.883Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWEBK34BGQHB82AZJ8SZP",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/headphone-side.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                    "created_at": "2025-12-05T04:21:20.883Z",
+                    "updated_at": "2025-12-05T04:21:20.883Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWEBKQXHPJ6MBH6MH0Z3C",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/headphone-top.png",
+                    "metadata": null,
+                    "rank": 2,
+                    "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                    "created_at": "2025-12-05T04:21:20.883Z",
+                    "updated_at": "2025-12-05T04:21:20.883Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWECCNXWS8RZ8S1TCP7VJ",
+                    "title": "Headphone Black",
+                    "sku": "HEADPHONE-BLACK",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                    "created_at": "2025-12-05T04:21:20.909Z",
+                    "updated_at": "2025-12-05T04:21:20.909Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEBKWMF1TDCVESZPZWCK",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                            "option": {
+                                "id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                                "created_at": "2025-12-05T04:21:20.883Z",
+                                "updated_at": "2025-12-05T04:21:20.883Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.883Z",
+                            "updated_at": "2025-12-05T04:21:20.883Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWECYWTMT3RPPEQ5XG8N9",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 149,
+                        "raw_calculated_amount": {
+                            "value": "149",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 149,
+                        "raw_original_amount": {
+                            "value": "149",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWECY55SXPEYBD1KQFXBJ",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWECY55SXPEYBD1KQFXBJ",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWECDHS9H6HYMKDZWX2CD",
+                    "title": "Headphone White",
+                    "sku": "HEADPHONE-WHITE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                    "created_at": "2025-12-05T04:21:20.909Z",
+                    "updated_at": "2025-12-05T04:21:20.909Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEBK5F27K6HXEDMZVDQ5",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                            "option": {
+                                "id": "opt_01KBPBWEBKGE29MVP9QDEHVF1M",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEBJEJNWSGRYN7TSMQQ3",
+                                "created_at": "2025-12-05T04:21:20.883Z",
+                                "updated_at": "2025-12-05T04:21:20.883Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.883Z",
+                            "updated_at": "2025-12-05T04:21:20.883Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWECYKDWX156P0131WQXA",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 149,
+                        "raw_calculated_amount": {
+                            "value": "149",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 149,
+                        "raw_original_amount": {
+                            "value": "149",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWECYNB4WFVPJXX461F0D",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWECYNB4WFVPJXX461F0D",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+            "title": "Wireless Keyboard | Touch ID | Numeric Keypad",
+            "subtitle": null,
+            "description": "This wireless keyboard offers a comfortable typing experience with a numeric keypad and Touch ID. It features navigation buttons, full-sized arrow keys, and is ideal for spreadsheets and gaming. The rechargeable battery lasts about a month. It pairs automatically with compatible computers and includes a USB-C to Lightning cable for charging and pairing.",
+            "handle": "wireless-keyboard-touch-id-numeric-keypad",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/keyboard-front.png",
+            "collection_id": null,
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:20.951Z",
+            "updated_at": "2025-12-05T04:21:20.951Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": null,
+            "options": [
+                {
+                    "id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                    "created_at": "2025-12-05T04:21:20.951Z",
+                    "updated_at": "2025-12-05T04:21:20.951Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWEDPGTR2CBY7VAPVV8JM",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                            "created_at": "2025-12-05T04:21:20.951Z",
+                            "updated_at": "2025-12-05T04:21:20.951Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWEDP43H2CQRYRKAE0VV2",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                            "created_at": "2025-12-05T04:21:20.951Z",
+                            "updated_at": "2025-12-05T04:21:20.951Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWEDQR0QBEK3BVW5B0GME",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/keyboard-front.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                    "created_at": "2025-12-05T04:21:20.951Z",
+                    "updated_at": "2025-12-05T04:21:20.951Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWEDQCN0H4J9Q5STZW5YJ",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/keyboard-side.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                    "created_at": "2025-12-05T04:21:20.951Z",
+                    "updated_at": "2025-12-05T04:21:20.951Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWEEE0R3CWJ6E06NMAMCD",
+                    "title": "Keyboard White",
+                    "sku": "KEYBOARD-WHITE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                    "created_at": "2025-12-05T04:21:20.975Z",
+                    "updated_at": "2025-12-05T04:21:20.975Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEDP43H2CQRYRKAE0VV2",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                            "option": {
+                                "id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                                "created_at": "2025-12-05T04:21:20.951Z",
+                                "updated_at": "2025-12-05T04:21:20.951Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.951Z",
+                            "updated_at": "2025-12-05T04:21:20.951Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEEZJDXASCZ59FXZZ43A",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 99,
+                        "raw_calculated_amount": {
+                            "value": "99",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 99,
+                        "raw_original_amount": {
+                            "value": "99",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEEZ38W3NZJKQ6BXD27Q",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEEZ38W3NZJKQ6BXD27Q",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWEEEHW6CJFZRDMWZ41XB",
+                    "title": "Keyboard Black",
+                    "sku": "KEYBOARD-BLACK",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                    "created_at": "2025-12-05T04:21:20.975Z",
+                    "updated_at": "2025-12-05T04:21:20.975Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEDPGTR2CBY7VAPVV8JM",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                            "option": {
+                                "id": "opt_01KBPBWEDQKDHY0V2SQHMGZCSQ",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEDPERVWYYNNJFTCTMBS",
+                                "created_at": "2025-12-05T04:21:20.951Z",
+                                "updated_at": "2025-12-05T04:21:20.951Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:20.951Z",
+                            "updated_at": "2025-12-05T04:21:20.951Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEEZ83Z70GR3R7WHNMGX",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 99,
+                        "raw_calculated_amount": {
+                            "value": "99",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 99,
+                        "raw_original_amount": {
+                            "value": "99",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEEYCAXVXNW5HYWEDZT5",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEEYCAXVXNW5HYWEDZT5",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+            "title": "Wireless Rechargeable Mouse | Multi-Touch Surface",
+            "subtitle": null,
+            "description": "This wireless keyboard offers a comfortable typing experience with a numeric keypad and Touch ID. It features navigation buttons, full-sized arrow keys, and is ideal for spreadsheets and gaming. The rechargeable battery lasts about a month. It pairs automatically with compatible computers and includes a USB-C to Lightning cable for charging and pairing.",
+            "handle": "wireless-rechargeable-mouse-multi-touch-surface",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/mouse-top.png",
+            "collection_id": null,
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:21.015Z",
+            "updated_at": "2025-12-05T04:21:21.015Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": null,
+            "options": [
+                {
+                    "id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                    "created_at": "2025-12-05T04:21:21.015Z",
+                    "updated_at": "2025-12-05T04:21:21.015Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWEFP36J53K1WNN8H9SJQ",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                            "created_at": "2025-12-05T04:21:21.015Z",
+                            "updated_at": "2025-12-05T04:21:21.015Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWEFP868MXRWQ6P5X9WCA",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                            "created_at": "2025-12-05T04:21:21.015Z",
+                            "updated_at": "2025-12-05T04:21:21.015Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWEFPC7ANK83AMA79HNHR",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/mouse-top.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                    "created_at": "2025-12-05T04:21:21.015Z",
+                    "updated_at": "2025-12-05T04:21:21.015Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWEFP4NH7QQY12ZTYN8CD",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/mouse-front.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                    "created_at": "2025-12-05T04:21:21.015Z",
+                    "updated_at": "2025-12-05T04:21:21.015Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWEGE72YZWVTB2QD3XV28",
+                    "title": "Mouse Black",
+                    "sku": "MOUSE-BLACK",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                    "created_at": "2025-12-05T04:21:21.038Z",
+                    "updated_at": "2025-12-05T04:21:21.038Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEFP36J53K1WNN8H9SJQ",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                            "option": {
+                                "id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                                "created_at": "2025-12-05T04:21:21.015Z",
+                                "updated_at": "2025-12-05T04:21:21.015Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:21.015Z",
+                            "updated_at": "2025-12-05T04:21:21.015Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEGY7S1EF48Q1K7X20G1",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 79,
+                        "raw_calculated_amount": {
+                            "value": "79",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 79,
+                        "raw_original_amount": {
+                            "value": "79",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEGYSNGGS9ZBFXJBB686",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEGYSNGGS9ZBFXJBB686",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWEGERHAAH0EMBHQTE0PV",
+                    "title": "Mouse White",
+                    "sku": "MOUSE-WHITE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                    "created_at": "2025-12-05T04:21:21.038Z",
+                    "updated_at": "2025-12-05T04:21:21.038Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEFP868MXRWQ6P5X9WCA",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                            "option": {
+                                "id": "opt_01KBPBWEFPH7H33YXX4YZ33XAB",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEFPFE85SA2YAA991HDB",
+                                "created_at": "2025-12-05T04:21:21.015Z",
+                                "updated_at": "2025-12-05T04:21:21.015Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:21.015Z",
+                            "updated_at": "2025-12-05T04:21:21.015Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEGZW1SJCQB4VRSBQP7F",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 79,
+                        "raw_calculated_amount": {
+                            "value": "79",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 79,
+                        "raw_original_amount": {
+                            "value": "79",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEGY758WBH904HCT1J97",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEGY758WBH904HCT1J97",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+            "title": "Conference Speaker | High-Performance | Budget-Friendly",
+            "subtitle": null,
+            "description": "This compact, powerful conference speaker offers exceptional, high-performance features at a surprisingly affordable price. Packed with advanced productivity-enhancing technology, it delivers premium functionality without the premium price tag. Experience better meetings and improved communication, regardless of where your team members are calling from.",
+            "handle": "conference-speaker-high-performance-budget-friendly",
+            "is_giftcard": false,
+            "discountable": true,
+            "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/speaker-top.png",
+            "collection_id": null,
+            "type_id": null,
+            "weight": "400",
+            "length": null,
+            "height": null,
+            "width": null,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "created_at": "2025-12-05T04:21:21.079Z",
+            "updated_at": "2025-12-05T04:21:21.079Z",
+            "metadata": null,
+            "tags": [],
+            "type": null,
+            "collection": null,
+            "options": [
+                {
+                    "id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                    "title": "Color",
+                    "metadata": null,
+                    "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                    "created_at": "2025-12-05T04:21:21.079Z",
+                    "updated_at": "2025-12-05T04:21:21.079Z",
+                    "deleted_at": null,
+                    "values": [
+                        {
+                            "id": "optval_01KBPBWEHPFEJF6YEY3E970DRS",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                            "created_at": "2025-12-05T04:21:21.079Z",
+                            "updated_at": "2025-12-05T04:21:21.079Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": "optval_01KBPBWEHQVET92MYERWCDJCP3",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                            "created_at": "2025-12-05T04:21:21.079Z",
+                            "updated_at": "2025-12-05T04:21:21.079Z",
+                            "deleted_at": null
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": "img_01KBPBWEHQSQ1B3YQVPHBKWX77",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/speaker-top.png",
+                    "metadata": null,
+                    "rank": 0,
+                    "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                    "created_at": "2025-12-05T04:21:21.079Z",
+                    "updated_at": "2025-12-05T04:21:21.079Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": "img_01KBPBWEHQE8G49EKARAJCC4GW",
+                    "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/speaker-front.png",
+                    "metadata": null,
+                    "rank": 1,
+                    "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                    "created_at": "2025-12-05T04:21:21.079Z",
+                    "updated_at": "2025-12-05T04:21:21.079Z",
+                    "deleted_at": null
+                }
+            ],
+            "variants": [
+                {
+                    "id": "variant_01KBPBWEJD9R1YHPEXRSRPB22K",
+                    "title": "Speaker White",
+                    "sku": "SPEAKER-WHITE",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                    "created_at": "2025-12-05T04:21:21.101Z",
+                    "updated_at": "2025-12-05T04:21:21.101Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEHQVET92MYERWCDJCP3",
+                            "value": "White",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                            "option": {
+                                "id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                                "created_at": "2025-12-05T04:21:21.079Z",
+                                "updated_at": "2025-12-05T04:21:21.079Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:21.079Z",
+                            "updated_at": "2025-12-05T04:21:21.079Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEK1HYT9QB5VNSV7BZVM",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 55,
+                        "raw_calculated_amount": {
+                            "value": "55",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 55,
+                        "raw_original_amount": {
+                            "value": "55",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEK170K8KMT4ZSJH1XCQ",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEK170K8KMT4ZSJH1XCQ",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                },
+                {
+                    "id": "variant_01KBPBWEJDB2354P97V13SRC66",
+                    "title": "Speaker Black",
+                    "sku": "SPEAKER-BLACK",
+                    "barcode": null,
+                    "ean": null,
+                    "upc": null,
+                    "allow_backorder": false,
+                    "manage_inventory": false,
+                    "hs_code": null,
+                    "origin_country": null,
+                    "mid_code": null,
+                    "material": null,
+                    "weight": null,
+                    "length": null,
+                    "height": null,
+                    "width": null,
+                    "metadata": null,
+                    "variant_rank": 0,
+                    "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                    "created_at": "2025-12-05T04:21:21.101Z",
+                    "updated_at": "2025-12-05T04:21:21.101Z",
+                    "deleted_at": null,
+                    "options": [
+                        {
+                            "id": "optval_01KBPBWEHPFEJF6YEY3E970DRS",
+                            "value": "Black",
+                            "metadata": null,
+                            "option_id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                            "option": {
+                                "id": "opt_01KBPBWEHQ2CT7HMDYYYSBRR4Q",
+                                "title": "Color",
+                                "metadata": null,
+                                "product_id": "prod_01KBPBWEHPCR6T11A7Z5QXRZW0",
+                                "created_at": "2025-12-05T04:21:21.079Z",
+                                "updated_at": "2025-12-05T04:21:21.079Z",
+                                "deleted_at": null
+                            },
+                            "created_at": "2025-12-05T04:21:21.079Z",
+                            "updated_at": "2025-12-05T04:21:21.079Z",
+                            "deleted_at": null
+                        }
+                    ],
+                    "calculated_price": {
+                        "id": "pset_01KBPBWEK18J1X5CTHJHVE662T",
+                        "is_calculated_price_price_list": false,
+                        "is_calculated_price_tax_inclusive": false,
+                        "calculated_amount": 79,
+                        "raw_calculated_amount": {
+                            "value": "79",
+                            "precision": 20
+                        },
+                        "is_original_price_price_list": false,
+                        "is_original_price_tax_inclusive": false,
+                        "original_amount": 79,
+                        "raw_original_amount": {
+                            "value": "79",
+                            "precision": 20
+                        },
+                        "currency_code": "eur",
+                        "calculated_price": {
+                            "id": "price_01KBPBWEK16WWA4Q3441VC30BH",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        },
+                        "original_price": {
+                            "id": "price_01KBPBWEK16WWA4Q3441VC30BH",
+                            "price_list_id": null,
+                            "price_list_type": null,
+                            "min_quantity": null,
+                            "max_quantity": null
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "count": 8,
+    "offset": 0,
+    "limit": 50
+}

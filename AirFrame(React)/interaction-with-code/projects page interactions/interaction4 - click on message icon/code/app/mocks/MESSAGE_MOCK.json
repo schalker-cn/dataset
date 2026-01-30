@@ -1,0 +1,31 @@
+{
+  "messages": [
+    {
+      "firstName": "Emily",
+      "lastName": "Walker",
+      "unreadCount": 7,
+      "time": "Now",
+      "title": "posted a message",
+      "content": "Server deployment completed successfully.",
+      "statusColor": "text-success"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Kim",
+      "unreadCount": 1,
+      "time": "Now",
+      "title": "posted a message",
+      "content": "A new API key has been generated.",
+      "statusColor": "text-danger"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Martinez",
+      "unreadCount": 23,
+      "time": "Now",
+      "title": "posted a message",
+      "content": "The dashboard UI has been updated.",
+      "statusColor": "text-warning"
+    }
+  ]
+}

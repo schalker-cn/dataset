@@ -1,0 +1,181 @@
+{
+    "cart": {
+        "id": "cart_01KC12B6BV4VQGWBY5T94SNJ68",
+        "currency_code": "eur",
+        "email": "test@gmail.com",
+        "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+        "created_at": "2025-12-09T08:06:17.214Z",
+        "updated_at": "2025-12-09T08:06:17.214Z",
+        "completed_at": null,
+        "total": 1998,
+        "subtotal": 1998,
+        "tax_total": 0,
+        "discount_total": 0,
+        "discount_subtotal": 0,
+        "discount_tax_total": 0,
+        "original_total": 1998,
+        "original_tax_total": 0,
+        "item_total": 1998,
+        "item_subtotal": 1998,
+        "item_tax_total": 0,
+        "original_item_total": 1998,
+        "original_item_subtotal": 1998,
+        "original_item_tax_total": 0,
+        "shipping_total": 0,
+        "shipping_subtotal": 0,
+        "shipping_tax_total": 0,
+        "original_shipping_tax_total": 0,
+        "original_shipping_subtotal": 0,
+        "original_shipping_total": 0,
+        "credit_line_subtotal": 0,
+        "credit_line_tax_total": 0,
+        "credit_line_total": 0,
+        "metadata": {
+            "company_id": "comp_01KBWJEDE0NZSBNF9G4EH9VTN9"
+        },
+        "sales_channel_id": "sc_01KBPBWDQVE317PGZNSA8WWTK9",
+        "customer_id": "cus_01KBWFGQGF7CY2FKJZBSPGHT2F",
+        "items": [
+            {
+                "id": "cali_01KC12B9VM6AGXER4Q5EB115VV",
+                "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-front.png",
+                "variant_id": "variant_01KBPBWE83BY711VV4V83XPYGF",
+                "product_id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                "product_type_id": null,
+                "product_title": "6.5\" Ultra HD Smartphone | 3x Impact-Resistant Screen",
+                "product_description": "This premium smartphone is crafted from durable and lightweight aerospace-grade aluminum, featuring an expansive 6.5\" Ultra-High Definition AMOLED display. It boasts exceptional durability with a cutting-edge nanocrystal glass front, offering three times the impact resistance of standard smartphone screens. The device combines sleek design with robust protection, setting a new standard for smartphone resilience and visual excellence. Copy",
+                "product_subtitle": null,
+                "product_type": null,
+                "product_collection": "Featured",
+                "product_handle": "65-ultra-hd-smartphone-3x-impact-resistant-screen",
+                "variant_sku": "PHONE-256-PURPLE",
+                "variant_barcode": null,
+                "variant_title": "256 GB Purple",
+                "requires_shipping": false,
+                "metadata": {},
+                "created_at": "2025-12-09T08:06:20.790Z",
+                "updated_at": "2025-12-09T11:07:36.339Z",
+                "title": "6.5\" Ultra HD Smartphone | 3x Impact-Resistant Screen",
+                "quantity": 2,
+                "unit_price": 999,
+                "compare_at_unit_price": null,
+                "is_tax_inclusive": false,
+                "tax_lines": [],
+                "adjustments": [],
+                "product": {
+                    "id": "prod_01KBPBWE78MNPQBS5F309GHKM4",
+                    "collection_id": "pcol_01KBPBWE0VP2PHDMK2BC5BFFGE",
+                    "type_id": null,
+                    "categories": [
+                        {
+                            "id": "pcat_01KBPBWE1EBS29HPZR7FFX12TA"
+                        }
+                    ],
+                    "tags": []
+                }
+            }
+        ],
+        "shipping_methods": [],
+        "shipping_address": null,
+        "billing_address": null,
+        "credit_lines": [],
+        "customer": {
+            "id": "cus_01KBWFGQGF7CY2FKJZBSPGHT2F",
+            "email": "test@gmail.com",
+            "groups": []
+        },
+        "region": {
+            "id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+            "name": "Europe",
+            "currency_code": "eur",
+            "automatic_taxes": true,
+            "countries": [
+                {
+                    "iso_2": "dk",
+                    "iso_3": "dnk",
+                    "num_code": "208",
+                    "name": "DENMARK",
+                    "display_name": "Denmark",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.138Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                },
+                {
+                    "iso_2": "fr",
+                    "iso_3": "fra",
+                    "num_code": "250",
+                    "name": "FRANCE",
+                    "display_name": "France",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.138Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                },
+                {
+                    "iso_2": "de",
+                    "iso_3": "deu",
+                    "num_code": "276",
+                    "name": "GERMANY",
+                    "display_name": "Germany",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.138Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                },
+                {
+                    "iso_2": "it",
+                    "iso_3": "ita",
+                    "num_code": "380",
+                    "name": "ITALY",
+                    "display_name": "Italy",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.138Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                },
+                {
+                    "iso_2": "es",
+                    "iso_3": "esp",
+                    "num_code": "724",
+                    "name": "SPAIN",
+                    "display_name": "Spain",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.139Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                },
+                {
+                    "iso_2": "se",
+                    "iso_3": "swe",
+                    "num_code": "752",
+                    "name": "SWEDEN",
+                    "display_name": "Sweden",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.139Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                },
+                {
+                    "iso_2": "gb",
+                    "iso_3": "gbr",
+                    "num_code": "826",
+                    "name": "UNITED KINGDOM",
+                    "display_name": "United Kingdom",
+                    "region_id": "reg_01KBPBWDT8JSA2WMBZ6AEXJ0NB",
+                    "metadata": null,
+                    "created_at": "2025-12-05T04:21:12.139Z",
+                    "updated_at": "2025-12-05T04:21:20.337Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        "promotions": []
+    }
+}

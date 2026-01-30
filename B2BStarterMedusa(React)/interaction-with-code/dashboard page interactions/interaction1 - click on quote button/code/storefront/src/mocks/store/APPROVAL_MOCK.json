@@ -1,0 +1,8 @@
+{
+    "url": "http://localhost:9000/store/approvals",
+    "request": {},
+    "response": {
+        "carts_with_approvals": [],
+        "count": 0
+    }
+}

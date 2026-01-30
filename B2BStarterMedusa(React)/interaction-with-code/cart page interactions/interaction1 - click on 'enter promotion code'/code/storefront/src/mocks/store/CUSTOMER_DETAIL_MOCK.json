@@ -1,0 +1,33 @@
+{
+    "customer": {
+        "id": "cus_01KBWFGQGF7CY2FKJZBSPGHT2F",
+        "email": "test@gmail.com",
+        "company_name": "test company",
+        "first_name": "test",
+        "last_name": "admin",
+        "phone": "1234567890",
+        "metadata": null,
+        "has_account": true,
+        "deleted_at": null,
+        "created_at": "2025-12-07T13:20:17.935Z",
+        "updated_at": "2025-12-07T13:20:17.935Z",
+        "addresses": [],
+        "orders": [],
+        "employee": {
+            "id": "emp_01KBWJFED6W7BJ010VYDFCAN2R",
+            "is_admin": true,
+            "company_id": "comp_01KBWJEDE0NZSBNF9G4EH9VTN9",
+            "company": {
+                "id": "comp_01KBWJEDE0NZSBNF9G4EH9VTN9"
+            },
+            "raw_spending_limit": {
+                "value": "0",
+                "precision": 20
+            },
+            "created_at": "2025-12-07T14:12:01.574Z",
+            "updated_at": "2025-12-07T14:12:01.574Z",
+            "deleted_at": null,
+            "spending_limit": 0
+        }
+    }
+}

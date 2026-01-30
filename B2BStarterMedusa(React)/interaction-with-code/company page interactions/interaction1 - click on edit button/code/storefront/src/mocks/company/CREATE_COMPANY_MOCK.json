@@ -1,0 +1,41 @@
+{
+    "url":"http://localhost:9000/store/companies",
+    "request": {
+        "name": "Example Innovations Ltd.",
+        "email": "test@example-innovations.com",
+        "phone": "+1-234-567-1234",
+        "address": "742 Evergreen Terrace",
+        "city": "Springfield",
+        "state": "CA",
+        "zip": "90210",
+        "country": "US",
+        "currency_code": "usd"
+    },
+    "response": {
+        "companies": [
+            {
+                "id": "comp_01KBWG8N50CBPY6QMJH1NXA6Y5",
+                "name": "Example Innovations Ltd.",
+                "logo_url": null,
+                "email": "test@example-innovations.com",
+                "phone": "+1-234-567-1234",
+                "address": "742 Evergreen Terrace",
+                "city": "Springfield",
+                "state": "CA",
+                "zip": "90210",
+                "country": "US",
+                "currency_code": "usd",
+                "employees": [],
+                "approval_settings": {
+                    "id": "apprset_01KBWG8N5DQSMXB6S6DGK68RFC",
+                    "company_id": "comp_01KBWG8N50CBPY6QMJH1NXA6Y5",
+                    "requires_admin_approval": false,
+                    "requires_sales_manager_approval": false,
+                    "created_at": "2025-12-07T13:33:21.965Z",
+                    "updated_at": "2025-12-07T13:33:21.965Z",
+                    "deleted_at": null
+                }
+            }
+        ]
+    }
+}

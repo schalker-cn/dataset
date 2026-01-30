@@ -1,0 +1,24 @@
+{
+  "timeline": [
+    {
+      "showPillDate": true,
+      "pillDate": "2 Days ago",
+      "icon": "times-circle",
+      "iconClassName": "text-danger",
+      "badgeTitle": "Alert",
+      "badgeColor": "danger",
+      "content": "System deployment failed due to a configuration error.",
+      "date": "2024-09-14 10:15:00"
+    },
+    {
+      "showPillDate": true,
+      "pillDate": "Yesterday",
+      "icon": "plus-circle",
+      "iconClassName": "text-primary",
+      "badgeTitle": "Message",
+      "badgeColor": "primary",
+      "content": "New feature request added to the project backlog.",
+      "date": "2024-09-12 14:40:00"
+    }
+  ]
+}
